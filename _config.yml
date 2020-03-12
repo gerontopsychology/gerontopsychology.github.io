@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: gcaffeine@gmail.com
+email: gerontopsychology@yandex.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Сайт о научном исследовании в области психологии.
+  Если вы находитесь в ситуации, требующей неотложной помощи, не используйте этот сайт и указанные на нем контакты для консультации. Обратитесь в службу спасения или в службу экстренной психологической помощи по номеру 051 (круглосуточно, звонок бесплатный). С мобильного телефона +7 (495) 051 (вы оплачиваете только звонок с мобильного по ценам вашего оператора). 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
